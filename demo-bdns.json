@@ -1,0 +1,26 @@
+{
+  "epi": {
+      "anchoringServices": [
+          "https://epi.opendsu.net"
+      ],
+      "notifications": [
+          "https://epi.opendsu.net"
+      ]
+  },
+  "epi.lydiarx": {
+      "brickStorages": [
+          "https://epi.opendsu.net"
+      ],
+      "anchoringServices": [
+          "https://epi.opendsu.net"
+      ]
+  },
+  "vault.lydiarx": {
+      "brickStorages": [
+          "https://epi.opendsu.net"
+      ],
+      "anchoringServices": [
+          "https://epi.opendsu.net"
+      ]
+  }
+}
